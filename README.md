@@ -6,7 +6,7 @@
 2.  Understand what Rake is used for in our Ruby programs.
 3.  Learn how to build a basic Rake task.
 
-## What is Rake?
+<!-- ## What is Rake? -->
 
 Rake is a tool that is available to us in Ruby that allows us to automate
 certain jobs––anything from execute SQL to `puts`-ing out a friendly message to
